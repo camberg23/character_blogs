@@ -13,31 +13,30 @@ AGAIN, THE SELECTED FRAMEWORK IS: {MODEL}
 
 (IF AND ONLY IF the selected framework is Emotional Intelligence, please refer to this breakdown of how to score someone on each of the five scales: 
 
-### **1. Self-Awareness**
-- **Higher Scores:** Insightful, reflective, emotionally attuned. Recognizes and understands emotions in real-time and can articulate the reasons behind them. Rarely surprised by emotional reactions.
-- **Lower Scores:** Reactive, less introspective, struggles to identify feelings or their origins. Frequently blindsided by emotional responses.
-- **Middle Scores:** Generally aware of emotions but may need time to reflect on complex or subtle feelings.
+1. Self-Awareness  
+- Higher Scores: Insightful, reflective, emotionally attuned. Recognizes and understands emotions in real-time and can articulate the reasons behind them. Rarely surprised by emotional reactions.  
+- Lower Scores: Reactive, less introspective, struggles to identify feelings or their origins. Frequently blindsided by emotional responses.  
+- Middle Scores: Generally aware of emotions but may need time to reflect on complex or subtle feelings.  
 
-### **2. Other Awareness**
-- **Higher Scores:** Perceptive, intuitive, socially observant. Easily picks up on nonverbal cues like tone, facial expressions, and body language. Anticipates others’ emotional states accurately.
-- **Lower Scores:** Misses or misreads social cues, leading to misunderstandings. May seem detached or self-focused.
-- **Middle Scores:** Can interpret most emotions but might miss subtleties or nuances in more complex situations.
+2. Other Awareness  
+- Higher Scores: Perceptive, intuitive, socially observant. Easily picks up on nonverbal cues like tone, facial expressions, and body language. Anticipates others’ emotional states accurately.  
+- Lower Scores: Misses or misreads social cues, leading to misunderstandings. May seem detached or self-focused.  
+- Middle Scores: Can interpret most emotions but might miss subtleties or nuances in more complex situations.  
 
-### **3. Emotional Control**
-- **Higher Scores:** Calm, composed, and resilient under stress. Manages emotions effectively, redirecting them toward productive outcomes.
-- **Lower Scores:** Prone to mood swings, overwhelmed by emotions, and slow to recover from setbacks. Reacts impulsively under pressure.
-- **Middle Scores:** Generally steady but may struggle to maintain composure in particularly intense or unexpected situations.
+3. Emotional Control  
+- Higher Scores: Calm, composed, and resilient under stress. Manages emotions effectively, redirecting them toward productive outcomes.  
+- Lower Scores: Prone to mood swings, overwhelmed by emotions, and slow to recover from setbacks. Reacts impulsively under pressure.  
+- Middle Scores: Generally steady but may struggle to maintain composure in particularly intense or unexpected situations.  
 
-### **4. Empathy**
-- **Higher Scores:** Compassionate, caring, and deeply attuned to others’ emotions. Feels motivated to help and connect on a meaningful level.
-- **Lower Scores:** Struggles to relate to others’ feelings. Tends to focus on logic or fairness over emotional understanding.
-- **Middle Scores:** Relates to others’ emotions in many cases but may find it harder to connect deeply in certain situations.
+4. Empathy  
+- Higher Scores: Compassionate, caring, and deeply attuned to others’ emotions. Feels motivated to help and connect on a meaningful level.  
+- Lower Scores: Struggles to relate to others’ feelings. Tends to focus on logic or fairness over emotional understanding.  
+- Middle Scores: Relates to others’ emotions in many cases but may find it harder to connect deeply in certain situations.  
 
-### **5. Wellbeing**
-- **Higher Scores:** Optimistic, confident, and emotionally stable. Finds joy and satisfaction in daily life and maintains strong social connections.
-- **Lower Scores:** Prone to stress, anxiety, or pessimism. Finds it challenging to feel fulfilled or maintain emotional and social health.
-- **Middle Scores:** Generally positive and resilient but experiences ups and downs, especially in high-stress situations or during setbacks.)
-
+5. Wellbeing  
+- Higher Scores: Optimistic, confident, and emotionally stable. Finds joy and satisfaction in daily life and maintains strong social connections.  
+- Lower Scores: Prone to stress, anxiety, or pessimism. Finds it challenging to feel fulfilled or maintain emotional and social health.  
+- Middle Scores: Generally positive and resilient but experiences ups and downs, especially in high-stress situations or during setbacks.)  
 
 Here is the specific character universe for which you should generate the appropriate personality types: {X}
 
@@ -48,7 +47,7 @@ It should be as rich information as possible/appropriate for each character, usi
 
 Again, a human is going to take your outputs as an outline/reference for writing a polished blog piece, so you don't need to output polished text yourself, just make sure the core ideas and key raw content is there. It does not have to be pretty!
 
-Formatting requirements: make sure you immediately output the specified content, no preface or conclusion, and make sure it is in Markdown for easy formatting.
+Formatting requirements: make sure you immediately output the specified content, no preface or conclusion, and make sure it is in Markdown for easy formatting, do not wrap it in anything weird: it will be passed directly to st.markdown() and should be formatted perfectly for this.
 
 YOUR OUTPUTS:
 """
