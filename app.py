@@ -11,7 +11,7 @@ AGAIN, THE SELECTED FRAMEWORK IS: {MODEL}
 
 (IF AND ONLY IF the selected framework is Myers-Briggs and you plan to label or name any of the types, please use the following names only. Note you don't have to do this, but if you do use the names in addition to the types, use these names: INFP: The Healer, INTJ: The Mastermind, INFJ: The Counselor, INTP: The Architect, ENFP: The Champion, ENTJ: The Commander, ENTP: The Visionary, ENFJ: The Teacher, ISFJ: The Protector, ISFP: The Composer, ISTJ: The Inspector, ISTP: The Craftsperson, ESFJ: The Provider, ESFP: The Performer, ESTJ: The Supervisor, ESTP: The Dynamo)
 
-(IF AND ONLY IF the selected framework is Emotional Intelligence, please refer to our validated factor structure here: 
+(IF AND ONLY IF the selected framework is Emotional Intelligence, please refer to this breakdown of how to score someone on each of the five scales: 
 
 ### **1. Self-Awareness**
 - **Higher Scores:** Insightful, reflective, emotionally attuned. Recognizes and understands emotions in real-time and can articulate the reasons behind them. Rarely surprised by emotional reactions.
@@ -42,7 +42,7 @@ AGAIN, THE SELECTED FRAMEWORK IS: {MODEL}
 Here is the specific character universe for which you should generate the appropriate personality types: {X}
 
 Your job is to output ALL of the key characters related to the above universe and their type assignment as headers, and the rich justification for and evidence related to assigning that character to that type as bullets below that header.
-SPECIAL NOTE: if the SELECTED FRAMEWORK is Big Five, you cannot do typing in the same way as the other models. Therefore, still output the major characters and attempt to characterize them across all five traits (very low, low, medium, high, very high), using rich evidence for each one.
+SPECIAL NOTE: if the SELECTED FRAMEWORK is Big Five OR Emotional Intelligence, you cannot do typing in the same way as the other models. Therefore, still output the major characters and attempt to characterize them across all five traits (very low, low, medium, high, very high), using rich evidence for each one (for EQ, refer to breakdown above).
 
 It should be as rich information as possible/appropriate for each character, using specific details or actions from the story to justify your type/trait assignment. It is okay to have duplicate types (give the best and most honest type assignment possible), but be mindful at the same time not to output, eg, 10 characters of the same type (this wouldn't make for a great article!). Strike the balance, but prioritize accurately nailing the types.
 
