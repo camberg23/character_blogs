@@ -80,7 +80,7 @@ if st.button('Submit'):
             generated_output = chat_chain.run(MODEL=model_type, X=task_description)
             
             # Display the LLM output using markdown
-            st.write(generated_output)
+            st.markdown(generated_output)
             
             # Use Streamlit's download button to download the output
             st.download_button(
